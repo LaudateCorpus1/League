@@ -43,7 +43,7 @@
     "webpack-livereload-plugin": "^0.11.0"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.2",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.1",
     "cheerio": "^1.0.0-rc.2",
